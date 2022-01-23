@@ -10,12 +10,13 @@ In short I'm Consistent Security Researcher with the desire to make a difference
 - ✔️ Web/Mobile Application Penetration Testing 
 - ✔️ CTFs
 - ✔️ Networking 
-- ✔️ Noob in Coding :P still can code - Python , Javascript , NodeJS  , C/C++, Solidity, Websites
-- ✔️ Research (Search my name over [ExploitDB](https://exploitdb.com)
+- ✔️ Noob in Coding :P still can code - Python , Javascript , NodeJS  , C/C++, Solidity, Websites.
+- ✔️ Research (Search my name over [ExploitDB](https://exploitdb.com))
 - ✔️ OSINT
 - ✔️ Thick Client Pentesting
 - ✔️ Reverse Engineering
 - ✔️ Source code review  
+- ✔️ Network Pentesting  
 - ✔️ Video Editing 
 - ✔️ Building Communities
 ---
