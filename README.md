@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/anmolksachan/anmolksachan.github.io/0845039dbaae0455d978eac296540f9c7f667d16/.../c.svg">
+< a href="https://twitter.com/fr13nd0x7f/"><img src="https://raw.githubusercontent.com/anmolksachan/anmolksachan.github.io/0845039dbaae0455d978eac296540f9c7f667d16/.../c.svg"></a>
 
 ### 👋 Heya, I am Anmol K Sachan (FR13ND0x7f) 
 
