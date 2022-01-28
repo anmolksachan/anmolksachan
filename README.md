@@ -1,5 +1,8 @@
 ### 👋 Heya, I am Anmol K Sachan (FR13ND0x7f) 
 
+![Alt text](https://twitter.com/fr13nd0x7f/)
+<img src="https://raw.githubusercontent.com/anmolksachan/anmolksachan.github.io/0845039dbaae0455d978eac296540f9c7f667d16/.../c.svg">
+
 Skilled and adaptable team player. Builder, developer, problem solver and
 penetration tester. Hacking is not about mastering one tool or another. It is a process, a way of thinking. If I really want into a system, then I will opt for custom written malware/exploits that I write myself. 
 In short I'm Consistent Security Researcher with the desire to make a difference.
