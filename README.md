@@ -25,7 +25,7 @@ In short I'm Consistent Security Researcher with the desire to make a difference
 ### Find me around the world 🌍
 - [Twitter](https://twitter.com/FR13ND0x7f)
 - [LinkedIn](https://www.linkedin.com/in/anmolksachan/)
-- [Blog](https://anmolksachan.github.com/blog/)
+- [Blog](https://anmolksachan.github.io/blog/)
 - [Instagram](https://instagram.com/the_guy_that_hacks)
 
 <!--
