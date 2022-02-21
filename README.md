@@ -13,7 +13,7 @@ In short I'm Consistent Security Researcher with the desire to make a difference
 - ✔️ CTFs
 - ✔️ Networking 
 - ✔️ Noob in Coding :P still can code - Python , Javascript , NodeJS  , C/C++, Solidity, Websites.
-- ✔️ Research (Search my name over [ExploitDB](https://exploitdb.com))
+- ✔️ Research (Search my name over [ExploitDB](https://www.exploit-db.com/google-hacking-database?author=10367))
 - ✔️ OSINT
 - ✔️ Thick Client Pentesting
 - ✔️ Reverse Engineering
