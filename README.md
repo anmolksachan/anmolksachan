@@ -8,6 +8,15 @@ In short I'm Consistent Security Researcher with the desire to make a difference
 
 ---
 
+- [Portfolio](https://anmolksachan.github.io/)
+
+---
+
+I am a 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
+Discovered and reported several vulnerabilities in projects with Honorable mentions/ Acknowledgement letters, like **Nokia, Federal Communications Commission (USA Gov), Mediatek, Healthy Supplies, or Wageningen University & Research**.
+
+---
+
 ### My skillset 🔧
 - ✔️ Web/Mobile Application Penetration Testing 
 - ✔️ CTFs
@@ -21,6 +30,23 @@ In short I'm Consistent Security Researcher with the desire to make a difference
 - ✔️ Network Pentesting  
 - ✔️ Video Editing 
 - ✔️ Building Communities
+
+---
+### Open Source Tools build for Pentesters/ Bug bounty Hunters 🛠️
+- [The Time Machine](https://github.com/anmolksachan/TheTimeMachine)
+- [CrossInjector](https://github.com/anmolksachan/CrossInjector)
+- [What The Cipher](https://github.com/anmolksachan/WhatTheCipher)
+- [Project Dork](https://anmolksachan.github.io/ProjectDork/)
+
+---
+
+### [CVEs](https://github.com/anmolksachan/CVE) reported by me ⚔️
+- CVE-2021-27539
+- CVE-2022-33041
+- CVE-2021-27295
+- CVE-2021-27296
+- CVE-2021-27190
+
 ---
 ### Find me around the world 🌍
 - [Twitter](https://twitter.com/FR13ND0x7f)
