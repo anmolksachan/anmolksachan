@@ -37,6 +37,8 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 - [CrossInjector](https://github.com/anmolksachan/CrossInjector)
 - [What The Cipher](https://github.com/anmolksachan/WhatTheCipher)
 - [Project Dork](https://anmolksachan.github.io/ProjectDork/)
+- [ThreatTracer](https://github.com/anmolksachan/ThreatTracer)
+- [JIRA"YA - JIRA Yet Another vulnerability Analyzer](https://github.com/anmolksachan/JIRAya)
 
 ---
 
