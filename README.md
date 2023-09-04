@@ -50,6 +50,11 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 - CVE-2021-27190
 
 ---
+
+### [Papers Published](#) ⚔️
+- [AI: perilous threat to both physical and cyber world](https://www.jetir.org/view?paper=JETIRDQ06013)  Published at Journal of Emerging Technologies and Innovative Research
+  
+---
 ### Find me around the world 🌍
 - [Twitter](https://twitter.com/FR13ND0x7f)
 - [LinkedIn](https://www.linkedin.com/in/anmolksachan/)
