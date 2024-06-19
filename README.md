@@ -33,6 +33,7 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 
 ---
 ### Open Source Tools build for Pentesters/ Bug bounty Hunters 🛠️
+- [CVE Seeker](https://github.com/anmolksachan/CVESeeker)
 - [The Time Machine](https://github.com/anmolksachan/TheTimeMachine)
 - [CrossInjector](https://github.com/anmolksachan/CrossInjector)
 - [What The Cipher](https://github.com/anmolksachan/WhatTheCipher)
