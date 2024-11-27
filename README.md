@@ -40,6 +40,7 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 - [Project Dork](https://anmolksachan.github.io/ProjectDork/)
 - [ThreatTracer](https://github.com/anmolksachan/ThreatTracer)
 - [JIRA"YA - JIRA Yet Another vulnerability Analyzer](https://github.com/anmolksachan/JIRAya)
+- [DKIM Lookup](https://github.com/anmolksachan/dkim-lookup)
 
 ---
 
