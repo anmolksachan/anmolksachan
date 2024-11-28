@@ -33,12 +33,12 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 
 ---
 ### Open Source Tools build for Pentesters/ Bug bounty Hunters 🛠️
+- [The Time Machine](https://github.com/anmolksachan/TheTimeMachine) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/TheTimeMachine?style=social)](https://github.com/anmolksachan/TheTimeMachine)
+- [ThreatTracer](https://github.com/anmolksachan/ThreatTracer) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/ThreatTracer?style=social)](https://github.com/anmolksachan/ThreatTracer)
 - [CVE Seeker](https://github.com/anmolksachan/CVESeeker)
-- [The Time Machine](https://github.com/anmolksachan/TheTimeMachine)
 - [CrossInjector](https://github.com/anmolksachan/CrossInjector)
 - [What The Cipher](https://github.com/anmolksachan/WhatTheCipher)
 - [Project Dork](https://anmolksachan.github.io/ProjectDork/)
-- [ThreatTracer](https://github.com/anmolksachan/ThreatTracer)
 - [JIRA"YA - JIRA Yet Another vulnerability Analyzer](https://github.com/anmolksachan/JIRAya)
 - [DKIM Lookup](https://github.com/anmolksachan/dkim-lookup)
 
@@ -50,6 +50,7 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 - CVE-2021-27295
 - CVE-2021-27296
 - CVE-2021-27190
+- and more!!
 
 ---
 
