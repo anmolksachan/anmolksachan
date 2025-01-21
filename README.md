@@ -36,7 +36,7 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 - ✔️ Building Communities
 
 ---
-### Open Source Tools build for Pentesters/ Bug bounty Hunters 🛠️
+### Tools designed for open-source use by pentesters, security researchers, and bug bounty hunters 🛠️
 - [The Time Machine](https://github.com/anmolksachan/TheTimeMachine) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/TheTimeMachine?style=social)](https://github.com/anmolksachan/TheTimeMachine)
 - [ThreatTracer](https://github.com/anmolksachan/ThreatTracer) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/ThreatTracer?style=social)](https://github.com/anmolksachan/ThreatTracer)
 - [WayBackup Finder](https://github.com/anmolksachan/WayBackupFinder)
