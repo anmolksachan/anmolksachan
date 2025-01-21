@@ -18,7 +18,12 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 ---
 
 ### My skillset 🔧
-- ✔️ Web/Mobile Application Penetration Testing 
+- ✔️ Web Application Penetration Testing
+- ✔️ Mobile Application Penetration Testing
+- ✔️ API Penetration Testing
+- ✔️ AI/ML Penetration Testing
+- ✔️ Network Pentesting
+- ✔️ ASM (Attack Surface Management)
 - ✔️ CTFs
 - ✔️ Networking 
 - ✔️ Noob in Coding :P still can code - Python , Javascript , NodeJS  , C/C++, Solidity, Websites.
@@ -26,8 +31,7 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 - ✔️ OSINT
 - ✔️ Thick Client Pentesting
 - ✔️ Reverse Engineering
-- ✔️ Source code review  
-- ✔️ Network Pentesting  
+- ✔️ Source code review   
 - ✔️ Video Editing 
 - ✔️ Building Communities
 
@@ -35,6 +39,7 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 ### Open Source Tools build for Pentesters/ Bug bounty Hunters 🛠️
 - [The Time Machine](https://github.com/anmolksachan/TheTimeMachine) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/TheTimeMachine?style=social)](https://github.com/anmolksachan/TheTimeMachine)
 - [ThreatTracer](https://github.com/anmolksachan/ThreatTracer) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/ThreatTracer?style=social)](https://github.com/anmolksachan/ThreatTracer)
+- [WayBackup Finder](https://github.com/anmolksachan/WayBackupFinder)
 - [CVE Seeker](https://github.com/anmolksachan/CVESeeker)
 - [CrossInjector](https://github.com/anmolksachan/CrossInjector)
 - [What The Cipher](https://github.com/anmolksachan/WhatTheCipher)
