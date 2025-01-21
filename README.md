@@ -47,6 +47,8 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 - [JIRA"YA - JIRA Yet Another vulnerability Analyzer](https://github.com/anmolksachan/JIRAya)
 - [DKIM Lookup](https://github.com/anmolksachan/dkim-lookup)
 
+Note: These tools are for educational purposes only. Use responsibly. The creator is not liable for misuse.
+
 ---
 
 ### [CVEs](https://github.com/anmolksachan/CVE) reported by me ⚔️
