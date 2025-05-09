@@ -39,7 +39,8 @@ Discovered and reported several vulnerabilities in projects with Honorable menti
 ### Tools designed for open-source use by pentesters, security researchers, and bug bounty hunters 🛠️
 - [The Time Machine](https://github.com/anmolksachan/TheTimeMachine) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/TheTimeMachine?style=social)](https://github.com/anmolksachan/TheTimeMachine)
 - [ThreatTracer](https://github.com/anmolksachan/ThreatTracer) [![GitHub stars](https://img.shields.io/github/stars/anmolksachan/ThreatTracer?style=social)](https://github.com/anmolksachan/ThreatTracer)
-- [WayBackup Finder](https://github.com/anmolksachan/WayBackupFinder)
+- [WayBackLister](https://github.com/anmolksachan/wayBackLister)![GitHub stars](https://img.shields.io/github/stars/anmolksachan/waybackLister?style=social)
+- [WayBackup Finder](https://github.com/anmolksachan/WayBackupFinder)![GitHub stars](https://img.shields.io/github/stars/anmolksachan/WayBackupFinder?style=social)
 - [CVE Seeker](https://github.com/anmolksachan/CVESeeker)
 - [CrossInjector](https://github.com/anmolksachan/CrossInjector)
 - [What The Cipher](https://github.com/anmolksachan/WhatTheCipher)
