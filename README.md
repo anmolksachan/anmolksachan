@@ -1,3 +1,135 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Anmol%20K%20Sachan&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=%40FR13ND0x7F%20%E2%80%94%20Security%20Researcher%20%E2%80%A2%20Pentester%20%E2%80%A2%20Bug%20Bounty%20Hunter&descSize=15&descAlignY=75&descColor=aaaaaa" width="100%"/>
+
+<br/>
+
+<a href="https://twitter.com/FR13ND0x7f"><img src="https://img.shields.io/badge/@FR13ND0x7F-black?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/anmolksachan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://anmolksachan.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;
+<a href="https://anmolksachan.github.io/blogs/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/the_guy_that_hacks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=anmolksachan&style=flat-square&color=6e40c9&label=profile+views"/>
+
+</div>
+
+---
+
+Security Consultant at **[NetSPI](https://www.netspi.com)** · Founder of **[Black Hat India](https://twitter.com/black_hat_india)** · Chapter Lead at **OWASP Chandigarh**
+
+I break things for a living — responsibly. From Web and API flaws to AI/ML attack surfaces, I specialize in finding what others miss and building open-source tools that make the community sharper. I've authored multiple CVEs, been recognized across government and enterprise Hall of Fames worldwide, and published security research.
+
+---
+
+## Recognition & Hall of Fame
+
+| Organization | Type |
+|---|---|
+| 🇮🇳 **CERT-In** (Indian Computer Emergency Response Team) | Hall of Fame |
+| 📡 **Federal Communications Commission — US Government** | Hall of Fame |
+| 📱 **Nokia** | Hall of Fame |
+| 🔧 **MediaTek** | Hall of Fame |
+| 🌿 **Wageningen University & Research** | Hall of Fame |
+| 🛒 **Healthy Supplies** | Hall of Fame |
+| *(+ more not listed here)* | Recognition Letters |
+
+> **CVEs Authored:** `CVE-2021-27539` · `CVE-2022-33041` · `CVE-2021-27295` · `CVE-2021-27296` · `CVE-2021-27190` · and more
+
+---
+
+## Open Source Arsenal
+
+> Built because I needed them. Free because you deserve them.
+
+<details open>
+<summary><b>🤖 AI / ML Security</b></summary>
+
+<br/>
+
+| Tool | What it does |
+|---|---|
+| [**LLM Injector**](https://github.com/anmolksachan/llminjector) ![stars](https://img.shields.io/github/stars/anmolksachan/llminjector?style=flat-square&labelColor=black&color=6e40c9) | Burp Suite extension for automated LLM prompt injection testing — one of the first of its kind |
+| [**AI/ML Pentest Roadmap**](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html) ![stars](https://img.shields.io/github/stars/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection?style=flat-square&labelColor=black&color=6e40c9) | Zero-to-practitioner curriculum for AI/ML security — structured, free, and comprehensive |
+
+</details>
+
+<details>
+<summary><b>🕵️ Recon & OSINT</b></summary>
+
+<br/>
+
+| Tool | What it does |
+|---|---|
+| [**The Time Machine**](https://github.com/anmolksachan/TheTimeMachine) ![stars](https://img.shields.io/github/stars/anmolksachan/TheTimeMachine?style=flat-square&labelColor=black&color=6e40c9) | Mines Wayback Machine snapshots to surface forgotten endpoints, subdomains, and buried secrets — got me into CERT-In HOF |
+| [**WayBackLister**](https://github.com/anmolksachan/wayBackLister) ![stars](https://img.shields.io/github/stars/anmolksachan/wayBackLister?style=flat-square&labelColor=black&color=6e40c9) | Discovers exposed directory listings through archived Wayback Machine URLs |
+| [**WayBackup Finder**](https://github.com/anmolksachan/WayBackupFinder) ![stars](https://img.shields.io/github/stars/anmolksachan/WayBackupFinder?style=flat-square&labelColor=black&color=6e40c9) | Hunts for leaked backup files and sensitive data in historical snapshots |
+| [**CloudFail v2**](https://github.com/anmolksachan) | Finds real IPs behind Cloudflare — rebuilt from scratch because the original was broken |
+| [**Project Dork**](https://anmolksachan.github.io/ProjectDork/) | Curated Google Dorks for serious OSINT operations |
+
+</details>
+
+<details>
+<summary><b>🔎 Vulnerability Research</b></summary>
+
+<br/>
+
+| Tool | What it does |
+|---|---|
+| [**ThreatTracer**](https://github.com/anmolksachan/ThreatTracer) ![stars](https://img.shields.io/github/stars/anmolksachan/ThreatTracer?style=flat-square&labelColor=black&color=6e40c9) | Feed it a component name and version — get CVEs and public exploits back instantly |
+| [**CVE Seeker**](https://github.com/anmolksachan/CVESeeker) | Fast, clean CVE lookup and related exploit search |
+| [**JIRA"YA**](https://github.com/anmolksachan/JIRAya) | Scans JIRA instances for misconfigurations and unauthenticated data exposure |
+| [**DKIM Lookup**](https://github.com/anmolksachan/dkim-lookup) | Verifies DKIM records for email security audits |
+
+</details>
+
+<details>
+<summary><b>⚔️ Exploitation & CTF</b></summary>
+
+<br/>
+
+| Tool | What it does |
+|---|---|
+| [**CrossInjector**](https://github.com/anmolksachan/CrossInjector) | End-to-end automated XSS payload testing framework |
+| [**What The Cipher**](https://github.com/anmolksachan/WhatTheCipher) | Cipher identification and decryption toolkit for CTF challenges |
+
+</details>
+
+---
+
+## Research & Writing
+
+📄 **"AI: Perilous Threat to Both Physical and Cyber Worlds"** — [JETIR](https://www.jetir.org/view?paper=JETIRDQ06013)  
+Explores how AI simultaneously empowers defenders and weaponizes attackers — published before it was a trending topic.
+
+✍️ **Recent articles on [Medium](https://anmolksachan.medium.com/):**
+- [I Built a Burp Suite Extension to Automate LLM Prompt Injection Testing](https://anmolksachan.medium.com/i-built-a-burp-suite-extension-to-automate-llm-prompt-injection-testing-b4add8a11774)
+- [How "The Time Machine v3.0" Landed Me in the CERT-In Hall of Fame](https://anmolksachan.medium.com/how-the-time-machine-v3-0-landed-me-in-the-cert-in-hall-of-fame-5d356ad34911)
+- [CloudFail v2: Finding the Real IP Behind Cloudflare](https://anmolksachan.medium.com/cloudfail-v2-finding-the-real-ip-behind-cloudflare-and-why-the-old-tool-was-broken-984c216c6062)
+- [GraphQL Pentest Checklist for Bug Bounty Hunters](https://anmolksachan.medium.com/graphql-test-cases-a-comprehensive-checklist-for-bug-bounty-hunters-and-penetration-testers-ca8697384da)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anmolksachan&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=6e40c9&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolksachan&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&langs_count=6"/>
+
+<img src="https://streak-stats.demolab.com?user=anmolksachan&theme=transparent&hide_border=true&stroke=6e40c9&ring=6e40c9&fire=ff4444&currStreakLabel=ffffff&sideLabels=888888&dates=555555"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*All tools are for authorized testing and educational use only · MIT License*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%"/>
+
+</div>
+<!--OLD README
 [<img src="https://raw.githubusercontent.com/anmolksachan/anmolksachan.github.io/0845039dbaae0455d978eac296540f9c7f667d16/.../c.svg " alt="FR13ND0x7F"></a>](https://twitter.com/fr13nd0x7f/ )
 
 ### 👋 Hey there, I'm **Anmol K Sachan (FR13ND0x7F)**
@@ -132,3 +264,4 @@ I once spent 48 hours straight debugging a single line of code—and yes, it was
 All tools and content are released under the **MIT License** unless otherwise specified. Contributions are welcome—fork, modify, and submit pull requests to help improve these projects!
 
 ---
+-->
