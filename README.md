@@ -45,6 +45,15 @@ These open-source tools are designed to assist pentesters, security researchers,
   ![GitHub stars](https://img.shields.io/github/stars/anmolksachan/TheTimeMachine?style=social )  
   A powerful recon tool leveraging Wayback Machine data to discover sensitive endpoints, subdomains, and potential vulnerabilities.
 
+- [**LLM Injector**](https://github.com/anmolksachan/llminjector )  
+  ![GitHub stars](https://img.shields.io/github/stars/anmolksachan/llminjector?style=social )  
+  Burp Suite Extension for LLM Prompt Injection Testing.
+
+- [**🛡️ AI/ML Pentesting Roadmap**](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection)  
+  [**Neural Breach - AI ML Pentest Roadmap Academy**](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html)
+  ![GitHub stars](https://img.shields.io/github/stars/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection?style=social )  
+  A comprehensive, structured guide to learning AI/ML security and penetration testing — from zero to practitioner.
+
 - [**ThreatTracer**](https://github.com/anmolksachan/ThreatTracer )  
   ![GitHub stars](https://img.shields.io/github/stars/anmolksachan/ThreatTracer?style=social )  
   A CVE checker and exploit enumerator for identifying vulnerabilities and public exploits against software components.
