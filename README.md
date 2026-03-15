@@ -1,6 +1,9 @@
 <div align="center">
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Anmol%20K%20Sachan&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=%40FR13ND0x7F%20%E2%80%94%20Security%20Researcher%20%E2%80%A2%20Pentester%20%E2%80%A2%20Bug%20Bounty%20Hunter&descSize=15&descAlignY=75&descColor=aaaaaa" width="100%"/>
+-->
+<img src="http://anmolksachan.github.io/banner.svg" width="100%"/>
 
 <br/>
 
