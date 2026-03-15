@@ -18,7 +18,7 @@
 
 ---
 
-Security Consultant at **[NetSPI](https://www.netspi.com)** · Founder of **[Black Hat India](https://twitter.com/black_hat_india)** · Chapter Lead at **OWASP Chandigarh**
+Sr. Security Consultant at **[NetSPI](https://www.netspi.com)** · Hacker Side at **[Black Hat India](https://twitter.com/black_hat_india)** · Chapter Lead at **OWASP Chandigarh**
 
 I break things for a living — responsibly. From Web and API flaws to AI/ML attack surfaces, I specialize in finding what others miss and building open-source tools that make the community sharper. I've authored multiple CVEs, been recognized across government and enterprise Hall of Fames worldwide, and published security research.
 
