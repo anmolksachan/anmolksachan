@@ -105,6 +105,7 @@ I break things for a living — responsibly. From Web and API flaws to AI/ML att
 Explores how AI simultaneously empowers defenders and weaponizes attackers — published before it was a trending topic.
 
 ✍️ **Recent articles on [Medium](https://anmolksachan.medium.com/):**
+- [The CVE in the Slack channel](https://anmolksachan.medium.com/the-cve-in-the-slack-channel-94fb683b946e)
 - [I Built a Burp Suite Extension to Automate LLM Prompt Injection Testing](https://anmolksachan.medium.com/i-built-a-burp-suite-extension-to-automate-llm-prompt-injection-testing-b4add8a11774)
 - [How "The Time Machine v3.0" Landed Me in the CERT-In Hall of Fame](https://anmolksachan.medium.com/how-the-time-machine-v3-0-landed-me-in-the-cert-in-hall-of-fame-5d356ad34911)
 - [CloudFail v2: Finding the Real IP Behind Cloudflare](https://anmolksachan.medium.com/cloudfail-v2-finding-the-real-ip-behind-cloudflare-and-why-the-old-tool-was-broken-984c216c6062)
